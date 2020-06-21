@@ -1,0 +1,12 @@
+(* 99 Problems *)
+(* 19 *)
+
+
+(* Rotate a list N places to the left. (medium)
+ * 
+ * # rotate ["a"; "b"; "c"; "d"; "e"; "f"; "g"; "h"] 3;;
+ * - : string list = ["d"; "e"; "f"; "g"; "h"; "a"; "b"; "c"]
+ * # rotate ["a"; "b"; "c"; "d"; "e"; "f"; "g"; "h"] (-2);;
+ * - : string list = ["g"; "h"; "a"; "b"; "c"; "d"; "e"; "f"]
+ * 
+ *)
